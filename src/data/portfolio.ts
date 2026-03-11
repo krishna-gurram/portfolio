@@ -133,7 +133,7 @@ export const PROJECTS: ProjectItem[] = [
     title: 'Trademark Lookup Automation',
     description: 'Mentored intern end-to-end, identified dependent services, reviewed design pre-formally, daily unblocking and code reviews. Single unified API replaced a manual multi-site lookup process.',
     impact: 'Reduced validation from 60+ min to under 5 min',
-    metrics: [, { value: 'FTE', label: 'Return offer' }, { value: '5 min', label: 'vs 60+ min before of associate work' }],
+    metrics: [{ value: 'FTE', label: 'Return offer' }, { value: '5 min', label: 'vs 60+ min before of associate work' }],
     stack: ['Java', 'Spring Boot', 'React', 'Internal APIs'],
   },
 ];
